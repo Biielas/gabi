@@ -19,9 +19,9 @@
     background-color: transparent;
     border: 1px solid var(--branco);
     color: var(--branco);
-    border-radius: 24px;
+    border-radius: 20px;
     padding: 1em;
-    width: 100%;
+    width: 30%;
 }
 
 .banner__pesquisa::placeholder {
